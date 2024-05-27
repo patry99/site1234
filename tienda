@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <title>Tienda ordenadores</title>
+    </head>
+
+    <body style="font-size: sans-serif">
+        <header style="background-color:#E3B06E; color:white; font-size:35px">
+            <img id="top" src= "https://drive.google.com/thumbnail?id=14OaY9mkScuUysPLMY86U08kC0kyv5FfO " height="40px">
+           <a href="#Bienvenido" style="color:black; font-size:30px;">¡Tu mejor tienda de ordenadores!</a>
+        </header>
+            
+        <main>
+            <h1 style="font-size: 50px; text-align:center">Completa el ordenador de tus sueños</h1><br/>
+            <img src ="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=600" />
+            <h2 id ="Bienvenido" style="text-align:center; font-size: 40px">Bienvenido/a a nuestra tienda</h2>
+
+            <p>
+                En nuestra tienda online de ordenadores, encontrarás una amplia selección de equipos de última generación diseñados para satisfacer todas tus necesidades. <br/>Desde potentes portátiles para gaming hasta elegantes ultrabooks para profesionales, ofrecemos la mejor tecnología al mejor precio.
+            </p>
+
+            <h2 style= "font-size: 40px">Los mejores ordenadores</h2>
+            <p>
+                 <img src ="https://images.pexels.com/photos/115655/pexels-photo-115655.jpeg?auto=compress&cs=tinysrgb&w=600" width="400px" />
+                 <img src ="https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"width="400px" />
+            </p>
+             <p>Descubre nuestra gama de ordenadores y portátiles diseñados para todos los usos, desde el entretenimiento y la productividad hasta el gaming de alta intensidad. Encuentra la mejor combinación de rendimiento y portabilidad.
+    
+             </p>
+        
+          
+            <h2 style= "font-size: 40px">Accesorios</h2>
+            <p>Completa tu configuración con nuestros accesorios de alta calidad. Desde teclados y ratones hasta monitores y auriculares, tenemos todo lo que necesitas para optimizar tu experiencia.</p>
+
+            <h2 style= "font-size: 40px">¿Qué ordenador elegir?</h2>
+            <img src ="https://images.pexels.com/photos/1981443/pexels-photo-1981443.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" />
+
+             <table style = "border-collapse:collapse; border: 1px solid #E3B06E; font-size:20px "> 
+
+
+             <tr style= "background-color: #E3836E; text-align: center; color: white; font-size:25px">
+             <td></td>
+             <td><b>PC</b></td>
+             <td><b>Portátil</b></td>
+             </tr>
+
+
+             <tr>
+             <td style = "border: 1px solid #E3B06E; ">Portabilidad</td>
+             <td>Limitada, necesitan un lugar fijo</td>
+             <td>Alta, se pueden llevar a cualquier parte</td>
+             </tr>
+
+              <tr style="background-color:#E3B06E;">               
+              <td>Rendimiento</td>
+              <td>Generalmente más alto debido a mejores componentes</td>
+              <td>Varía, pero en general menor que un sobremesa</td>
+             </tr>
+
+             <tr>
+             <td style = "border: 1px solid #E3B06E; ">Actualización de Componentes</td>
+             <td>Fácil, con muchas opciones de personalización</td>
+              <td>Difícil, con opciones limitadas</td>
+             </tr>
+
+             <tr style="background-color:#E3B06E;"> 
+             <td>Uso Principal</td>
+             <td>Oficina, gaming, trabajo intensivo</td>
+             <td>Movilidad, trabajo en exteriores, estudios</td>
+             </tr>
+
+             <tr>
+             <td style = "border: 1px solid #E3B06E; ">Espacio Requerido</td>
+             <td>Más espacio, necesita un escritorio</td>
+             <td>Menos espacio, puede usarse en cualquier superficie</td>
+            </tr>
+
+             <tr style="background-color:#E3B06E;"> 
+            <td>Duración de la Batería</td>
+            <td>No aplicable</td>
+            <td>Varía, generalmente entre 3-10 horas</td>
+             </tr>
+    
+            </table>
+        </main>
+
+        <footer style="background-color:black; color: white">
+          <p>Llegaste al final de la página</p>
+          <a href="#top" style ="color:white; font-size: 20px">Vuelve al principio</a>
+          <p>Direccción: Gran Vía </p>
+          <p>Teléfono: 000 000 000 </p>
+
+        </footer>
+    </body>
+</html>
